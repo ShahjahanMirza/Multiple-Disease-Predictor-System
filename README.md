@@ -1,5 +1,6 @@
 # Mulitple-Disease-Predictor-System
 ## *Run the deployed version: [click me](https://shahjahanmirza-multiple-disease-predictor-system-main-b499rx.streamlit.app/) 😎
+![Screenshot 2023-06-06 002141](https://github.com/ShahjahanMirza/Multiple-Disease-Predictor-System/assets/103453568/241093c0-c5c7-4b9f-b456-44a945e7660d)
 
 This streamlit site lets you use multiple disease predictors.
 
